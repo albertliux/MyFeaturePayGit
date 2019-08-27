@@ -1,7 +1,7 @@
 {
   "update": "Yes",
   "new_version": "1.0.1",
-  "apk_file_url": "https://github.com/albertliux/MyFeaturePayGit/blob/master/apk/app-release_2019-08-27_10-23-08_legu_aligned_signed.apk?raw=true",
+  "apk_file_url": "https://github.com/albertliux/MyFeaturePayGit/raw/master/apk/app-release_2019-08-27_10-23-08_legu_aligned_signed.apk",
   "update_log": "1，增加行情和交易模块。\r\n",
   "target_size": "35.7M",
   "constraint": true
